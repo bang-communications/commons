@@ -59,7 +59,7 @@ projects[connector][version] = "1.0-beta2"
 
 projects[ckeditor][type] = "module"
 projects[ckeditor][subdir] = "contrib"
-projects[ckeditor][version] = "1.18"
+projects[ckeditor][version] = "1.19"
 
 ; Fix features rebuilding when CKEditor is disabled.
 ; https://www.drupal.org/node/2456519#comment-9742435
@@ -207,11 +207,11 @@ projects[lingotek][version] = "7.24"
 
 projects[link][type] = "module"
 projects[link][subdir] = "contrib"
-projects[link][version] = "1.4"
+projects[link][version] = "1.6"
 
 projects[media][type] = "module"
 projects[media][subdir] = "contrib"
-projects[media][version] = "2.16"
+projects[media][version] = "2.19"
 
 projects[media_oembed][type] = "module"
 projects[media_oembed][subdir] = "contrib"
@@ -259,7 +259,7 @@ projects[metatag][version] = "1.22"
 
 projects[module_filter][type] = "module"
 projects[module_filter][subdir] = "contrib"
-projects[module_filter][version] = "2.1"
+projects[module_filter][version] = "2.2"
 
 projects[mollom][type] = "module"
 projects[mollom][subdir] = "contrib"
@@ -375,7 +375,7 @@ projects[redirect][version] = "1.0-rc3"
 
 projects[registration][subdir] = "contrib"
 projects[registration][type] = "module"
-projects[registration][version] = "1.6"
+projects[registration][version] = "1.7"
 
 projects[rich_snippets][type] = "module"
 projects[rich_snippets][subdir] = "contrib"
@@ -434,7 +434,7 @@ projects[variable][version] = "2.5"
 
 projects[views][type] = "module"
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.18"
+projects[views][version] = "3.22"
 
 ; Update Views Content access filter per core performance improvements.
 ; https://drupal.org/comment/8516039#comment-8516039
