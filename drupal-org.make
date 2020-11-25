@@ -148,7 +148,7 @@ projects[facetapi][version] = "1.5"
 
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
-projects[features][version] = "2.10"
+projects[features][version] = "2.13"
 
 projects[file_entity][type] = "module"
 projects[file_entity][subdir] = "contrib"
@@ -215,7 +215,7 @@ projects[media][version] = "2.19"
 
 projects[media_oembed][type] = "module"
 projects[media_oembed][subdir] = "contrib"
-projects[media_oembed][version] = "2.7"
+projects[media_oembed][version] = "2.8"
 
 projects[memcache][type] = "module"
 projects[memcache][subdir] = "contrib"
@@ -383,7 +383,7 @@ projects[rich_snippets][version] = "1.0-beta4"
 
 projects[rules][type] = "module"
 projects[rules][subdir] = "contrib"
-projects[rules][version] = "2.10"
+projects[rules][version] = "2.12"
 
 projects[schemaorg][type] = "module"
 projects[schemaorg][subdir] = "contrib"
